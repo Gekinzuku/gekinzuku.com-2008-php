@@ -1,0 +1,36 @@
+<html><head><title>404 Not Found - Gekinzuku</title></head>
+<body bgcolor="000000">
+<font color="FFFFFF">
+<h1>404 Page not found</h1>
+
+<script type="text/javascript">
+<!--
+var message;
+message = Math.floor(Math.random()*20)
+
+if(message==0) document.write("I'm terribly sorry, this page appears to be on coffee break. <br/>");
+else if(message==1) document.write("Congratulations, you have successfully broken the internet. <br/>");
+else if(message==2) document.write("I blame Graham1 for this error ever happening. <br/>");
+else if(message==3) document.write("Terrorists have taken over this page! <br/>");
+else if(message==4) document.write("I do believe you've encountered an error.<br/>");
+else if(message==5) document.write("Out of all the webpages on the web you just had to go to one that didn't exist! <br/>");
+else if(message==6) document.write("Sadly, despite the fact that this is not a real page I put work into it!<br/>");
+else if(message==7) document.write("This page appears to have packed its bags and moved to Kansas. <br/>");
+else if(message==8) document.write("This page is currently using the restroom please try again later<br/>");
+else if(message==9) document.write("Unfortunately, this page does not exist at the moment, try again next year. <br/>");
+else if(message==10) document.write("I'm sorry, Kori appears to have pwned this page. <br/>");
+else if(message==11) document.write("This page has been nuked. <br/>");
+else if(message==12) document.write("I'm sorry, but this page took a karate chop to the forehead. Please send a get well card to " + window.location + ". <br/>");
+else if(message==13) document.write("It is unfortunate, but this page has been terminated by Chuck Norris. <br/>");
+else if(message==14) document.write("Some retard hacked our CP and put in all these quotes to annoy you. Chances are, after a while you will never see the same message twice. <br/>");
+else if(message==15) document.write("GeekyLink is to blame for this page, you all know Graham1 would never do anything to this page! <br/>");
+else if(message==16) document.write("ERROR 404 PEBCAK HAS BEEN TRANSLATED :: Problem Exists Between Chair And Keyboard. <br/>");
+else if(message==17) document.write("Count from one hundred down to zero in English, French, German, and Japaneese. Then add a dab of sugar, a pound of flour, and water. Repeat until golden brown. <br/>");
+else if(message==18) document.write("1337 15 4 |)4|-| |-|4XX0/2Z <br/>");
+else if(message==19) document.write("We're sorry, Graham1 once again logged into the government missile control panel and dropped one on this page. Please come back after the apocalypse and fallout.<br/>");
+//-->
+</script><noscript>This is just a dull 404 page without Javascript... You should get it :o<br> </noscript>
+<br>
+The requested URL <!--#echo var="REQUEST_URI" --> does not exist. Please notify an admin of any dead links, we apologize for any inconvenience. You can return to the home page <a href="/index.php">here</a>.
+
+</body></html>

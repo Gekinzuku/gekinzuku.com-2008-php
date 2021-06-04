@@ -1,0 +1,90 @@
+Barinade||008C||00BA||FFFF
+Biri||0021||0034||0000
+Bomb||0001||0010||0000
+Bongo Bongo's Drum||00E2||0166||0000
+Brown Boulder||0163||0127||0000
+Castle Guard 1||0097||0142||0000
+Castle Guard (does nothing)||0097||0142||0001
+Clouds||0001||0165||7404
+Cucco||0013||0019||0000
+Dark Link (Enemy)||0020||0033||0000
+Dark Link (Room)||0125||0136||0000
+Death Mountain Cloud Ring||017A||00E5||FFFF
+Dodongo (Beta?)||000C||0012||0000
+Dodongo (Normal)||000C||0012||0001
+Dodongo's Cavern Rock||00C2||00CD||FFFF
+Epona||001A||0014||0000
+Fishing Pond||015B||00FE||0000
+Floormaster||000B||008E||0000
+Fog||0001||0165||7406
+Frezzard (immobile)||0114||0121||0000
+Frezzard (mobile)||0114||0121||00FF
+Ganondorf's Horse||002D||0042||0000
+Gerudo (patrolling 1)||0167||0186||0000
+Gerudo (patrolling 2)||0167||0186||0001
+Gerudo (patrolling 3)||0167||0186||0002
+Gerudo Fighter||0169||0197||0000
+Gerudo (white 1)||0116||0138||0000
+Gerudo (white 2)||0116||0138||0001
+Ghoma||001C||0028||0000
+Gibdo||0098||0090||FFFE
+Haggling townspeople 1||0182||01AD||0000
+Haggling townspeople 2||0182||01AD||0001
+Haggling townspeople 3||0182||01AD||0004
+Haggling townspeople 4||0182||01AD||0008
+Heart Container||00BD||005F||0000
+Hylian Loach (normal)||015B||00FE||0073
+Hylian Loach (huge)||015B||00FE||0100
+Iron Knuckle (white)||0106||0113||0003
+Iron Knuckle (sitting)||0106||0113||0001
+Iron Knuckle (gold)||0106||0113||FF02
+King Zora||00FF||0164||0000
+Large Treasure Chest (Heart Container)||000E||000A||09E1
+Like Like||00D4||00DD||0000
+Link||0000||0000||*
+Milk Crate||00F0||0107||0000
+Moblin (Club)||0030||004B||0000
+Moblin (Spear)||0030||004B||0001
+Poe||0009||000D||0000
+Proximity Flame Wall||002C||000C||0000
+Rain (No Lightning)||0001||0165||7407
+Rain (With Lightning)||0001||0170||0000
+Redead (crouching)||0098||0090||0002
+Redead (standing)||0098||0090||0001
+Red Ice (Crystal Platform)||006B||00EF||0200
+Red Ice (Giant Crystal)||006B||00EF||0400
+Red Ice (Large Crystal)||006B||00EF||0000
+Red Ice (Small Crystal)||006B||00EF||0100
+Red Ice (Wall)||006B||00EF||0300
+Skulltula (Invisible)||0024||0037||0002
+Skulltula (Large)||0024||0037||0001
+Skulltula (Normal)||0024||0037||0000
+Skullwalltula (Normal)||0024||0095||0000
+Snow||0001||0165||7402
+Stalfos 1||0032||0002||0001
+Stalfos (pairs with 1)||0032||0002||0002
+Stalfos (falls from sky)||0032||0002||0003
+Stalfos (with music)||0032||0002||0004
+Stalfos (invisible)||0032||0002||0000
+Volvagia (flying)||009C||0096||0000
+Volvagia (hole)||00A5||00A2||0000
+Wall (climbable)||00F1||00FD||0000
+Wallmaster||000B||0011||0000
+Windmill Man||0133||0153||0000
+Windmill Piece||006C||0123||0000
+Windmill Sails||00F9||0102||0000
+Wooden Post With Red Flag||0076||0026||0000
+------- Alpha Actors -------
+Alpha Arwing (no cutscene)||0001||013B||0001
+Alpha Arwing (with cutscene)||0001||013B||0000
+Alpha Brown Bird||0077||0072||0000
+Alpha Heart Container||0001||0015||0007
+Alpha Ocarina Pad||0068||006E||0000
+Alpha Stone (small)||0081||007C||0004
+Alpha Stone (normal)||0081||007C||0000
+Alpha Stone (big)||0081||007C||0001
+Alpha Stone (huge)||0081||007C||0002
+Alpha Stone (giant)||0081||007C||0003
+------- Beta Actors -------
+Beta Exploding Rupee 1||0001||0131||0001
+Beta Exploding Rupee 2||0001||0131||0002

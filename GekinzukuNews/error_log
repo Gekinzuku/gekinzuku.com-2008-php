@@ -1,0 +1,17 @@
+[24-May-2008 00:34:09] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/nintend5/public_html/Gekinzuku/GekinzukuNews/login.php on line 11
+[24-May-2008 00:46:32] PHP Parse error:  syntax error, unexpected '}' in /home/nintend5/public_html/Gekinzuku/GekinzukuNews/login.php on line 13
+[24-May-2008 01:23:05] PHP Parse error:  syntax error, unexpected ';' in /home/nintend5/public_html/Gekinzuku/GekinzukuNews/login.php on line 30
+[24-May-2008 02:19:03] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/nintend5/public_html/Gekinzuku/GekinzukuNews/login.php on line 42
+[24-May-2008 02:19:58] PHP Parse error:  syntax error, unexpected ';' in /home/nintend5/public_html/Gekinzuku/GekinzukuNews/login.php on line 42
+[24-May-2008 02:20:22] PHP Parse error:  syntax error, unexpected ';' in /home/nintend5/public_html/Gekinzuku/GekinzukuNews/login.php on line 42
+[24-May-2008 02:21:23] PHP Parse error:  syntax error, unexpected T_STRING in /home/nintend5/public_html/Gekinzuku/GekinzukuNews/login.php on line 42
+[24-May-2008 02:21:41] PHP Parse error:  syntax error, unexpected ';' in /home/nintend5/public_html/Gekinzuku/GekinzukuNews/login.php on line 42
+[24-May-2008 02:23:03] PHP Parse error:  syntax error, unexpected ';' in /home/nintend5/public_html/Gekinzuku/GekinzukuNews/login.php on line 42
+[24-May-2008 02:23:04] PHP Parse error:  syntax error, unexpected ';' in /home/nintend5/public_html/Gekinzuku/GekinzukuNews/login.php on line 42
+[24-May-2008 02:23:04] PHP Parse error:  syntax error, unexpected ';' in /home/nintend5/public_html/Gekinzuku/GekinzukuNews/login.php on line 42
+[24-May-2008 02:23:05] PHP Parse error:  syntax error, unexpected ';' in /home/nintend5/public_html/Gekinzuku/GekinzukuNews/login.php on line 42
+[24-May-2008 02:23:40] PHP Parse error:  syntax error, unexpected T_ECHO in /home/nintend5/public_html/Gekinzuku/GekinzukuNews/login.php on line 43
+[24-May-2008 02:23:55] PHP Parse error:  syntax error, unexpected ';' in /home/nintend5/public_html/Gekinzuku/GekinzukuNews/login.php on line 42
+[24-May-2008 02:25:08] PHP Parse error:  syntax error, unexpected ';' in /home/nintend5/public_html/Gekinzuku/GekinzukuNews/login.php on line 43
+[24-May-2008 02:27:58] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/nintend5/public_html/Gekinzuku/GekinzukuNews/login.php on line 52
+[24-May-2008 02:28:19] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/nintend5/public_html/Gekinzuku/GekinzukuNews/login.php on line 52
